@@ -4,4 +4,3 @@ see blog post "Bypassing System Integrity Protection using DeployStudio permanen
 and script itself...
 
 Maurits Sanders
-======
