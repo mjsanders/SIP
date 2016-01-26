@@ -1,6 +1,6 @@
 This is a small demo script to tweak SIP using DeployStudio
-see blog post at www.lai.nl/blog
-and script itself
+see blog post at https://www.lai.nl/tag/blog/
+and script itself...
 
 Maurits Sanders
 ======
