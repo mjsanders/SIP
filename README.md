@@ -1,6 +1,7 @@
 This is a small demo script to tweak SIP using DeployStudio
-see blog post "Bypassing System Integrity Protection using DeployStudio permanently (?)"
- at https://www.lai.nl/tag/blog/
+
+see blog post "Bypassing System Integrity Protection using DeployStudio permanently (?)" at https://www.lai.nl/tag/blog/
+
 and script itself...
 
 Maurits Sanders
